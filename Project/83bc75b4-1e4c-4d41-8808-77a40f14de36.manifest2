@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="Vape Box Tracking Line" id="83bc75b4-1e4c-4d41-8808-77a40f14de36" trackingId="6ccd24c3-c568-4b10-b373-8edb09ba4135" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-12W101☐Version:1.10" />
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="DBCon V1.02" />
+      <ApplicationFeature name="SetUnit NJ501-1320 Ver. 1.19" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>

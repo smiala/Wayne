@@ -1,0 +1,9 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=_sAXIS_REF	N=Zone_1_Feeder_Station	AT=MC://_MC_AX[0]	RO=1	Const=1	G=VAR_GLOBAL
+++D=_sAXIS_REF	N=Zone_2_Align1	AT=MC://_MC_AX[1]	RO=1	Const=1	G=VAR_GLOBAL
+++D=_sAXIS_REF	N=Zone_3_Inkjet1	AT=MC://_MC_AX[2]	RO=1	Const=1	G=VAR_GLOBAL
+++D=_sAXIS_REF	N=Zone_4_Flip	AT=MC://_MC_AX[3]	RO=1	Const=1	G=VAR_GLOBAL
+++D=_sAXIS_REF	N=Zone_5_Align2	AT=MC://_MC_AX[4]	RO=1	Const=1	G=VAR_GLOBAL
+++D=_sAXIS_REF	N=Zone_6_Inkjet2	AT=MC://_MC_AX[5]	RO=1	Const=1	G=VAR_GLOBAL
