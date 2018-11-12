@@ -3,4 +3,9 @@ _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=dum	G=VAR
 ++D=BOOL	N=dummer	G=VAR
+++D=BOOL	N=newbrancj	G=VAR
+++D=BOOL	N=sally	G=VAR
+++D=BOOL	N=one	G=VAR
+++D=BOOL	N=two	G=VAR
+++D=BOOL	N=three	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup

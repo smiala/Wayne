@@ -1,1 +1,3 @@
 ﻿{"CLs":[{"__type":"LD","Var":"dum"},{"__type":"ST","Ix":1,"Var":"dummer","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Var":"newbrancj"},{"__type":"ST","Ix":1,"Var":"sally","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+{"CLs":[{"__type":"LD","Var":"one"},{"__type":"LD","Ix":1,"Var":"two","X":1},{"__type":"ST","Ix":2,"Var":"three","X":2}],"LRI":3,"RRI":4,"VLs":[]}
